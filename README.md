@@ -1,3 +1,10 @@
+Tasted by me 
+## Count the number of files in a folder. autoupdate every second. 
+Change do print with do clear to make it refresh every second, instead of printing it to the screen. 
+
+`while [ 13 ]; do print; date; echo *.* | wc; sleep 1 ;done`
+
+
 # Unix Text Processing Command Reference
 
 ### [Nathan Schneider][nschneid], 2013-01-29
